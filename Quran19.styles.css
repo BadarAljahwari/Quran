@@ -1,3 +1,21 @@
+/* /Pages/Index.razor.rz.scp.css */
+body[b-flet4s38e3] {
+}
+
+
+.basmallah[b-flet4s38e3] {
+    font-family: Besmellah;
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+.aayah[b-flet4s38e3] {
+    font-family: 'Arabic Typesetting';
+    font-size: 25px;
+    font-weight: lighter;
+    position: relative;
+    top: -20px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-roz4zwc3cp] {
     position: relative;

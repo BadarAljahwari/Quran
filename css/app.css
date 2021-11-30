@@ -69,16 +69,3 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
-
-.basmallah {
-    font-family: Besmellah;
-    font-size: 60px;
-    font-weight: lighter;
-}
-.main-aayah {
-    font-family: 'Arabic Typesetting';
-    font-size: 25px;
-    font-weight: lighter;
-    position: relative;
-    top: -20px;
-}
